@@ -1,2 +1,3 @@
-# New-Node-Hangman-Game
-Hangman game using node.js
+# Node Hangman
+Homework: An object-oriented, node-based hangman game with recursive functions.  
+
